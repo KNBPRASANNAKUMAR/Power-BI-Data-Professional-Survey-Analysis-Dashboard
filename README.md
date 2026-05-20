@@ -69,13 +69,16 @@ This dashboard was built to solve the following business problems:
 - 
 ⚙️ **Technical Details**
 
- Aspect                   Details 
+ 🛠️ Tools Used     :  Power BI, Excel 
+ 
+ 📊 Dashboard Type :  Workforce & Career Analytics 
+ 
+ 📈 Visualizations : Treemap, Bar Chart, Donut Chart, KPI Cards, Gauge Charts 
+ 
+ 🗂️ Data Source    : Data Professional Survey Dataset 
+ 
+ 🎯 Purpose        : Analyze career trends and workforce satisfaction 
 
- 🛠️ Tools Used      | Power BI, Excel |
- 📊 Dashboard Type  | Workforce & Career Analytics |
- 📈 Visualizations  | Treemap, Bar Chart, Donut Chart, KPI Cards, Gauge Charts |
- 🗂️ Data Source     | Data Professional Survey Dataset |
- 🎯 Purpose         |Analyze career trends and workforce satisfaction |
 
 
 
