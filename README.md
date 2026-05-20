@@ -1,11 +1,11 @@
-🖼️ **Dashboard Preview**
+## 🖼️ **Dashboard Preview**
 
 <img width="4000" height="2282" alt="Power BI-Data-Professional-Survey-Analysis_page-0001" src="https://github.com/user-attachments/assets/3878987c-6b73-4be1-8328-d9f46a77b726" />
 
 
 
 
-📌  **Project Overview**
+## 📌  **Project Overview**
 
 This Power BI Dashboard provides an end-to-end analysis of Data Professional Survey responses collected from professionals across multiple countries and domains.
 
@@ -14,7 +14,7 @@ The dashboard helps analyze salary trends, programming language preferences, wor
 This report delivers a business-intelligence-driven overview of the modern data ecosystem using interactive Power BI visualizations and KPI storytelling.
 
 
- 🎯  **Problem Statement**
+ ## 🎯  **Problem Statement**
 
 The data industry is rapidly evolving, but understanding compensation trends, skill demand, and employee satisfaction remains difficult due to fragmented survey data.
 
@@ -28,7 +28,7 @@ This dashboard was built to solve the following business problems:
 - Support career planning using data-driven insights
 
 
- 🧠 **Business Objectives**
+ ## 🧠 **Business Objectives**
 
 - Analyze average salary by job title
 - Identify top countries participating in the survey
@@ -38,7 +38,7 @@ This dashboard was built to solve the following business problems:
 - Build an interactive dashboard for workforce analytics
 
 
-🔍  **Key Insights**
+## 🔍  **Key Insights**
 
 - Data Analysts reported the highest average salary among surveyed roles.
 - Python emerged as the most preferred programming language among professionals.
@@ -49,25 +49,25 @@ This dashboard was built to solve the following business problems:
 
 
 
-🧹 **Dataset Cleaning & Analysis**
+## 🧹 **Dataset Cleaning & Analysis**
 
- 🛠️ Data Cleaning Process
+### 🛠️ Data Cleaning Process
 
 - Removed null and incomplete survey responses
 - Standardized country and job title naming conventions
 - Cleaned salary-related inconsistencies
 - Split categorical survey responses into structured columns
 - Converted numerical fields into proper data types
-- 
- 📈 Data Analysis Performed
+
+ ### 📈 Data Analysis Performed
 
 - Salary aggregation by role
 - Country-wise respondent distribution
 - Programming language frequency analysis
 - Satisfaction score calculations
 - Difficulty-level segmentation analysis
-- 
-⚙️ **Technical Details**
+ 
+## ⚙️ **Technical Details**
 
  🛠️ Tools Used     :  Power BI, Excel 
  
@@ -82,7 +82,7 @@ This dashboard was built to solve the following business problems:
 
 
 
-💡 **Power BI Skills Demonstrated**
+## 💡 **Power BI Skills Demonstrated**
 
 - Power Query Data Cleaning
 - DAX KPI Calculations
@@ -95,7 +95,7 @@ This dashboard was built to solve the following business problems:
 
 
 
-📌 **KPIs & Metrics**
+## 📌 **KPIs & Metrics**
 
 - Total Survey Responses
 - Average Salary by Role
@@ -106,7 +106,7 @@ This dashboard was built to solve the following business problems:
 
 
 
- 📢 **Recommendations**
+ ## 📢 **Recommendations**
 
 - Professionals entering the data field should prioritize Python and SQL skills.
 - Organizations should focus on improving salary satisfaction to improve retention.
@@ -114,7 +114,7 @@ This dashboard was built to solve the following business problems:
 - Training programs should reduce industry entry barriers through practical learning pathways.
 
 
-🌍 **Project Impact**
+## 🌍 **Project Impact**
 
 This dashboard enables organizations and aspiring professionals to:
 
@@ -126,7 +126,7 @@ This dashboard enables organizations and aspiring professionals to:
 
 
 
-🗂️ **Dataset Source**
+## 🗂️ **Dataset Source**
 
 - Dataset: Data Professional Survey Dataset
 - Format: CSV File
@@ -134,7 +134,7 @@ This dashboard enables organizations and aspiring professionals to:
 
 
 
-👨‍💻 **Author**
+## 👨‍💻 **Author**
 
 Created by: KNB PRASANNA KUMAR
 
