@@ -31,6 +31,7 @@ Build an interactive dashboard for workforce analytics
 🖼️ Dashboard Preview:
 
 Power BI-Data-Professional-Survey-Analysis_page-0001.jpg 
+
 Click here-->
 (https://github.com/KNBPRASANNAKUMAR/Power-BI-Data-Professional-Survey-Analysis-Dashboard/blob/3515547f58f2d3bc388db3d58473e5cc9c9cbe0f/Power%20BI-Data-Professional-Survey-Analysis_page-0001.jpg)
 
